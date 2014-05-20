@@ -1,0 +1,9 @@
+Health check design
+
+	General
+		disk
+	Varnish
+		hit:miss ratio
+	Redis
+		create a session
+		
